@@ -1,2 +1,5 @@
 # AI
-Learn AI
+
+
+Learn Python.
+Learn AI.
